@@ -1,0 +1,436 @@
+patient_code	TubeID	sex	cancer_type.c	stage.c	ici_basel_setting.c2	icitype_fup_combo.c	timepoint	toxicity_first_date	toxicity	country	PPI	Cortisone	NSAID	Asprin	AB
+SWE-001	192fece10000	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-001	192fece10001	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-002	192fece10003	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0		no	SWE	0	1	0	0	0
+SWE-002	192fece10004	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1		no	SWE	0	1	0	0	0
+SWE-003	192fece10008	M	Melanoma	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T0	08/12/2020	yes	SWE	0	0	1	0	0
+SWE-003	192fece10007	M	Melanoma	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T1	08/12/2020	yes	SWE	0	0	1	0	0
+SWE-003	192fece10006	M	Melanoma	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T2	08/12/2020	yes	SWE	0	0	1	0	0
+SWE-004	192fece10009	M	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T0	09/07/2021	yes	SWE	0	1	1	0	0
+SWE-004	192fece10010	M	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T1	09/07/2021	yes	SWE	0	1	1	0	0
+SWE-005	192fece10014	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-005	192fece10013	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-006	192fece10016	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	05/07/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-006	192fece10234	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	05/07/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-007	192fece10018	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	24/03/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-007	192fece10019	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	24/03/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-008	192fece10021	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	08/12/2020	yes	SWE	1	0	0	0	0
+SWE-008	192fece10023	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	08/12/2020	yes	SWE	1	0	0	0	0
+SWE-008	192fece10022	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	08/12/2020	yes	SWE	1	0	0	0	0
+SWE-009	192fece10024	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	02/03/2021	yes	SWE	1	0	0	0	0
+SWE-009	192fece10025	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	02/03/2021	yes	SWE	1	0	0	0	0
+SWE-009	192fece10026	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	bewkur3extra	02/03/2021	yes	SWE	1	0	0	0	0
+SWE-010	192fece10028	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-010	192fece10027	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-012	192fece10033	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	01/06/2021	yes	SWE	0	1	1	0	0
+SWE-012	192fece10034	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	01/06/2021	yes	SWE	0	1	1	0	0
+SWE-013	192fece10036	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-013	192fece10037	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-014	192fece10039	F	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T0	13/04/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-014	192fece10040	F	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T1	13/04/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-014	192fece10109	F	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T2	13/04/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-015	192fece10043	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T1	27/04/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-015	192fece10042	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T0	27/04/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-015	192fece10257	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T2	27/04/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-016	192fece10045	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-016	192fece10046	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-017	192fece10048	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	24/02/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-018	192fece10052	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	0	1	0	0	0
+SWE-018	192fece10051	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	0	1	0	0	0
+SWE-019	192fece10055	F	Melanoma	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T1	15/03/2021	yes	SWE	1	1	0	0	0
+SWE-019	192fece10054	F	Melanoma	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T0	15/03/2021	yes	SWE	1	1	0	0	0
+SWE-020	192fece10057	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	15/03/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-020	192fece10058	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	15/03/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-022	192fece10064	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	30/03/2021	yes	SWE	1	0	0	0	0
+SWE-022	192fece10063	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	30/03/2021	yes	SWE	1	0	0	0	0
+SWE-023	192fece10067	M	Melanoma	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T0		no	SWE	0	0	1	0	0
+SWE-023	192fece10068	M	Melanoma	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T1		no	SWE	0	0	1	0	0
+SWE-024	192fece10069	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T0	22/03/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-025	192fece10073	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	0	0	1	0	0
+SWE-025	192fece10072	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	0	0	1	0	0
+SWE-026	192fece10077	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	08/04/2021	yes	SWE	1	1	1	0	0
+SWE-026	192fece10076	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	08/04/2021	yes	SWE	1	1	1	0	0
+SWE-027	192fece10080	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	28/05/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-027	192fece10108	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	28/05/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-027	192fece10078	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	28/05/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-028	192fece10081	F	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T0	05/10/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-028	192fece10082	F	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T1	05/10/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-029	192fece10084	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	0	1	0	0	0
+SWE-029	192fece10086	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	0	1	0	0	0
+SWE-030	192fece10087	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	14/10/2021	yes	SWE	1	0	0	0	0
+SWE-030	192fece10089	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	14/10/2021	yes	SWE	1	0	0	0	0
+SWE-030	192fece10088	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T2	14/10/2021	yes	SWE	1	0	0	0	0
+SWE-031	192fece10092	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	21/01/2022	yes	SWE	1	0	0	0	0
+SWE-031	192fece10090	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	21/01/2022	yes	SWE	1	0	0	0	0
+SWE-032	192fece10093	F	Lung	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T0	21/06/2021	yes	SWE	1	0	0	0	0
+SWE-033	192fece10096	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0		no	SWE	0	0	1	0	0
+SWE-034	192fece10100	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-034	192fece10099	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-035	192fece10103	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	10/08/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-035	192fece10102	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	10/08/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-035	192fece10104	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T2	10/08/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-036	192fece10105	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	11/08/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-036	192fece10106	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	11/08/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-037	192fece10110	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-037	192fece10111	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-038	192fece10113	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	11/11/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-038	918971	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	11/11/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-038	192fece10114	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	11/11/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-039	192fece10116	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	08/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-039	192fece10117	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	08/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-039	192fece10118	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T2	08/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-040	192fece10121	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	05/05/2022	yes	SWE	0	0	1	0	0
+SWE-040	192fece10120	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	05/05/2022	yes	SWE	0	0	1	0	0
+SWE-040	192fece10119	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	05/05/2022	yes	SWE	0	0	1	0	0
+SWE-041	192fece10122	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	24/11/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-041	192fece10123	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	24/11/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-041	192fece10124	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	24/11/2021	yes	SWE	NA	NA	NA	NA	NA
+SWE-042	192fece10126	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	12/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-042	192fece10125	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	12/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-042	192fece10250	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	12/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-043	192fece10129	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	07/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-043	192fece10128	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	07/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-044	192fece10131	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	21/12/2023	yes	SWE	1	0	0	0	0
+SWE-045	192fece10135	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	04/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-045	192fece10134	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	04/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-045	192fece10136	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	04/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-046	192fece10138	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-046	192fece10137	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-047	192fece10141	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	22/12/2023	yes	SWE	1	1	0	0	0
+SWE-047	192fece10140	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	22/12/2023	yes	SWE	1	1	0	0	0
+SWE-048	192fece10144	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	20/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-048	192fece10143	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	20/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-048	192fece10208	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	20/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-049	192fece10146	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	01/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-049	192fece10147	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	01/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-049	192fece10148	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	01/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-050	192fece10151	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	07/03/2022	yes	SWE	0	0	1	0	0
+SWE-050	192fece10151	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	07/03/2022	yes	SWE	0	0	1	0	0
+SWE-050	192fece10150	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	07/03/2022	yes	SWE	0	0	1	0	0
+SWE-050	192fece10150	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	07/03/2022	yes	SWE	0	0	1	0	0
+SWE-050	192fece10149	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	07/03/2022	yes	SWE	0	0	1	0	0
+SWE-050	192fece10149	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	07/03/2022	yes	SWE	0	0	1	0	0
+SWE-051	192fece10152	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	19/07/2022	yes	SWE	0	0	1	0	0
+SWE-051	192fece10153	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	19/07/2022	yes	SWE	0	0	1	0	0
+SWE-051	192fece10227	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T2	19/07/2022	yes	SWE	0	0	1	0	0
+SWE-052	192fece10155	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	28/03/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-052	192fece10157	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	28/03/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-053	192fece10158	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	18/06/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-053	192fece10159	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	18/06/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-054	192fece10162	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1		no	SWE	1	0	1	0	0
+SWE-054	192fece10161	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0		no	SWE	1	0	1	0	0
+SWE-055	192fece10166	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	15/06/2022	yes	SWE	0	1	0	0	0
+SWE-055	192fece10165	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	15/06/2022	yes	SWE	0	1	0	0	0
+SWE-056	192fece10167	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	20/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-056	192fece10168	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	20/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-057	192fece10171	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	11/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-057	192fece10170	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	11/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-057	192fece10197	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	11/04/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-058	192fece10173	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	19/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-058	192fece10174	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	19/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-058	192fece10175	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	19/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-059	192fece10176	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-059	192fece10177	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-060	192fece10180	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	26/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-060	192fece10179	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	26/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-060	192fece10181	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	26/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-061	192fece10182	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	01/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-061	192fece10183	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	01/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-061	192fece10184	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	01/12/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-062	192fece10185	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	0	1	1	0	0
+SWE-062	192fece10186	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	0	1	1	0	0
+SWE-063	192fece10189	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	04/11/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-063	192fece10188	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	04/11/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-063	192fece10190	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T2	04/11/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-064	192fece10191	M	Melanoma	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-064	192fece10192	M	Melanoma	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-065	192fece10194	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	10/01/2023	yes	SWE	0	0	1	0	0
+SWE-065	192fece10195	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	10/01/2023	yes	SWE	0	0	1	0	0
+SWE-066	192fece10199	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	15/12/2022	yes	SWE	0	0	1	0	0
+SWE-066	192fece10198	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	15/12/2022	yes	SWE	0	0	1	0	0
+SWE-066	192fece10200	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	15/12/2022	yes	SWE	0	0	1	0	0
+SWE-067	192fece10202	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	07/05/2022	yes	SWE	0	1	0	0	0
+SWE-067	192fece10201	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	07/05/2022	yes	SWE	0	1	0	0	0
+SWE-068	192fece10206	F	Melanoma	Others	Advanced 1st	CTLA-4,PD-1	T1	07/06/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-068	192fece10205	F	Melanoma	Others	Advanced 1st	CTLA-4,PD-1	T0	07/06/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-068	192fece10207	F	Melanoma	Others	Advanced 1st	CTLA-4,PD-1	T2	07/06/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-069	192fece10209	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-069	192fece10210	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-070	192fece10212	M	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T0	29/08/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-070	192fece10214	M	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T2	29/08/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-070	192fece10213	M	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T1	29/08/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-071	192fece10215	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	11/11/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-071	192fece10216	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	11/11/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-071	192fece10217	M	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	11/11/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-072	192fece10218	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-072	192fece10219	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-073	192fece10223	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	01/07/2022	yes	SWE	0	0	1	0	0
+SWE-073	US01150901	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	01/07/2022	yes	SWE	0	0	1	0	0
+SWE-074	192fece10224	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	12/03/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-074	192fece10225	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	12/03/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-075	192fece10229	M	Melanoma	Others	Advanced 1st	PD-1/PD-L1	T1		no	SWE	0	0	1	0	0
+SWE-075	192fece10228	M	Melanoma	Others	Advanced 1st	PD-1/PD-L1	T0		no	SWE	0	0	1	0	0
+SWE-076	192fece10232	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	26/06/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-076	192fece10231	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	26/06/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-077	192fece10235	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-077	192fece10236	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-078	192fece10240	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	18/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-078	192fece10239	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	18/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-078	192fece10238	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	18/10/2022	yes	SWE	NA	NA	NA	NA	NA
+SWE-079	192fece10241	M	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T0		no	SWE	1	0	0	0	0
+SWE-079	192fece10242	M	Melanoma	IV	Neoadj/adj	CTLA-4,PD-1	T1		no	SWE	1	0	0	0	0
+SWE-080	192fece10244	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-080	192fece10246	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-081	192fece10247	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T0	03/01/2023	yes	SWE	1	0	0	0	0
+SWE-081	192fece10248	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T1	03/01/2023	yes	SWE	1	0	0	0	0
+SWE-082	192fece10251	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0		no	SWE	0	0	1	0	0
+SWE-082	192fece10252	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1		no	SWE	0	0	1	0	0
+SWE-083	192fece10254	F	Melanoma	Others	Advanced 1st	PD-1/PD-L1	T0	15/08/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-083	192fece10255	F	Melanoma	Others	Advanced 1st	PD-1/PD-L1	T1	15/08/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-084	192fece10259	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	13/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-084	192fece10258	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	13/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-084	192fece10260	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	13/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-085	192fece10262	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T1	01/06/2023	yes	SWE	1	0	0	0	0
+SWE-085	192fece10261	M	Melanoma	IV	Neoadj/adj	PD-1/PD-L1	T0	01/06/2023	yes	SWE	1	0	0	0	0
+SWE-086	192fece10264	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-086	192fece10265	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-087	192fece10267	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-087	192fece10268	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-088	192fece10271	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	11/01/2023	yes	SWE	1	0	0	0	0
+SWE-088	192fece10270	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	11/01/2023	yes	SWE	1	0	0	0	0
+SWE-088	192fece10272	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	11/01/2023	yes	SWE	1	0	0	0	0
+SWE-089	192fece10273	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	02/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-089	192fece10274	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	02/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-089	192fece10275	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	02/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-090	192fece10276	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0		no	SWE	NA	NA	NA	NA	NA
+SWE-090	192fece10277	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1		no	SWE	NA	NA	NA	NA	NA
+SWE-091	192fece10279	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	13/02/2023	yes	SWE	1	1	0	0	0
+SWE-091	192fece10280	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	13/02/2023	yes	SWE	1	1	0	0	0
+SWE-092	192fece10282	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	01/01/2024	yes	SWE	NA	NA	NA	NA	NA
+SWE-092	192fece10283	F	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	01/01/2024	yes	SWE	NA	NA	NA	NA	NA
+SWE-093	192fece10287	F	Melanoma	Others	Advanced 1st	CTLA-4,PD-1	T0	18/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-093	192fece10286	F	Melanoma	Others	Advanced 1st	CTLA-4,PD-1	T1	18/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-094	192fece10288	F	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T0	13/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-094	192fece10289	F	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T1	13/01/2023	yes	SWE	NA	NA	NA	NA	NA
+SWE-095	192fece10293	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	19/01/2023	yes	SWE	0	1	0	0	0
+SWE-095	192fece10292	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	19/01/2023	yes	SWE	0	1	0	0	0
+ITA-001	192fece20002	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	01/09/2020	yes	ITA	NA	NA	NA	NA	NA
+ITA-001	192fecal2000	F	Lung	IV	Advanced 1st	PD-1/PD-L1	NA	01/09/2020	yes	ITA	NA	NA	NA	NA	NA
+ITA-002	192fece20008	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	25/10/2021	yes	ITA	1	0	0	0	0
+ITA-002	192fecal20001	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	NA	25/10/2021	yes	ITA	1	0	0	0	0
+ITA-003	192fece20010	M	Headneck	Others	Advanced 1st	PD-1/PD-L1	T1	08/01/2021	yes	ITA	1	0	0	0	0
+ITA-003	192fecal20004	M	Headneck	Others	Advanced 1st	PD-1/PD-L1	T0	08/01/2021	yes	ITA	1	0	0	0	0
+ITA-003	192fecal20006	M	Headneck	Others	Advanced 1st	PD-1/PD-L1	T0	08/01/2021	yes	ITA	1	0	0	0	0
+ITA-004	192fece20017	F	Lung	IV	Neoadj/adj	PD-1/PD-L1	T1	05/11/2020	yes	ITA	0	0	1	0	0
+ITA-004	192fecal2003	F	Lung	IV	Neoadj/adj	PD-1/PD-L1	T0	05/11/2020	yes	ITA	0	0	1	0	0
+ITA-005	192fece20022	M	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	ITA	NA	NA	NA	NA	NA
+ITA-006	192fece20013	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	30/07/2020	yes	ITA	1	1	0	0	0
+ITA-006	192fecal20005	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	30/07/2020	yes	ITA	1	1	0	0	0
+ITA-007	192fecal20009	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	ITA	1	1	1	0	1
+ITA-008	192fece20012	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T1	25/10/2020	yes	ITA	NA	NA	NA	NA	NA
+ITA-008	192fecal20007	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T0	25/10/2020	yes	ITA	NA	NA	NA	NA	NA
+ITA-009	192fece20016	M	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	18/02/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-009	192fecal20015	M	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	18/02/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-010	192fece20023	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	23/10/2020	yes	ITA	0	1	1	0	0
+ITA-010	192fece20011	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	23/10/2020	yes	ITA	0	1	1	0	0
+ITA-011	192fece20014	M	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	30/08/2020	yes	ITA	NA	NA	NA	NA	NA
+ITA-014	192fece20021	M	Urogenital (inc.renal)	Others	Advanced 1st	PD-1/PD-L1	T0		no	ITA	NA	NA	NA	NA	NA
+ITA-014	192fece20024	M	Urogenital (inc.renal)	Others	Advanced 1st	PD-1/PD-L1	T1		no	ITA	NA	NA	NA	NA	NA
+ITA-015	192fece20020	M	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	26/11/2020	yes	ITA	1	0	0	0	0
+ITA-015	192fece20018	M	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	26/11/2020	yes	ITA	1	0	0	0	0
+ITA-016	192fece20029	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1	02/12/2020	yes	ITA	1	1	0	0	0
+ITA-017	192fece20027	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	ITA	NA	NA	NA	NA	NA
+ITA-017	192fecal20019	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	ITA	NA	NA	NA	NA	NA
+ITA-018	192fece20028	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	06/10/2020	yes	ITA	1	1	0	0	0
+ITA-019	192fece20030	M	Headneck	IV	Advanced 1st	PD-1/PD-L1	T1	17/09/2020	yes	ITA	1	1	0	0	1
+ITA-019	192fece20026	M	Headneck	IV	Advanced 1st	PD-1/PD-L1	T0	17/09/2020	yes	ITA	1	1	0	0	1
+ITA-019	192fece20043	M	Headneck	IV	Advanced 1st	PD-1/PD-L1	T0	17/09/2020	yes	ITA	1	1	0	0	1
+ITA-020	192fece20035	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	06/11/2020	yes	ITA	0	1	1	0	0
+ITA-020	192fece20025	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	06/11/2020	yes	ITA	0	1	1	0	0
+ITA-021	192fece20046	F	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	NA	22/12/2020	yes	ITA	1	1	0	0	0
+ITA-021	192fece20047	F	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	NA	22/12/2020	yes	ITA	1	1	0	0	0
+ITA-022	192fece20037	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	09/11/2020	yes	ITA	1	0	0	0	0
+ITA-022	192fece20033	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	09/11/2020	yes	ITA	1	0	0	0	0
+ITA-023	192fece20032	M	Lung	Others	Neoadj/adj	PD-1/PD-L1	T0		no	ITA	1	0	0	0	0
+ITA-023	192fece20039	M	Lung	Others	Neoadj/adj	PD-1/PD-L1	T1		no	ITA	1	0	0	0	0
+ITA-024	192fece20041	F	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1	04/11/2020	yes	ITA	1	1	0	0	0
+ITA-024	192fece20031	F	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0	04/11/2020	yes	ITA	1	1	0	0	0
+ITA-025	192fece20040	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	ITA	NA	NA	NA	NA	NA
+ITA-026	192fece20034	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	09/12/2020	yes	ITA	0	1	0	0	0
+ITA-026	192fece20048	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	09/12/2020	yes	ITA	0	1	0	0	0
+ITA-027	192fece20042	M	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	04/11/2020	yes	ITA	1	1	0	0	0
+ITA-027	192fece20036	M	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	04/11/2020	yes	ITA	1	1	0	0	0
+ITA-028	192fece20038	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	ITA	0	1	0	0	0
+ITA-028	192fece20052	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	ITA	0	1	0	0	0
+ITA-029	192fece20051	M	Headneck	IV	Advanced 1st	PD-1/PD-L1	T1	26/02/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-030	192fece20044	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	ITA	1	0	0	0	0
+ITA-031	192fece20045	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0	09/11/2022	yes	ITA	1	0	0	0	1
+ITA-031	192fece20050	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1	09/11/2022	yes	ITA	1	0	0	0	1
+ITA-032	192fece20049	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	31/01/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-033	192fece20053	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	20/11/2020	yes	ITA	NA	NA	NA	NA	NA
+ITA-033	192fece20059	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	20/11/2020	yes	ITA	NA	NA	NA	NA	NA
+ITA-034	192fece20056	F	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0	29/11/2020	yes	ITA	1	0	0	0	0
+ITA-034	192fece20057	F	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1	29/11/2020	yes	ITA	1	0	0	0	0
+ITA-035	192fece20055	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	09/01/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-035	192fece20065	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	09/01/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-036	192fece20054	F	Lung	Others	Advanced 1st	PD-1/PD-L1	T0	21/10/2021	yes	ITA	0	0	0	0	1
+ITA-036	192fece20062	F	Lung	Others	Advanced 1st	PD-1/PD-L1	T1	21/10/2021	yes	ITA	0	0	0	0	1
+ITA-036	192fece20061	F	Lung	Others	Advanced 1st	PD-1/PD-L1	T1	21/10/2021	yes	ITA	0	0	0	0	1
+ITA-040	192fece20060	M	Headneck	IV	Advanced 1st	PD-1/PD-L1	T0	28/12/2020	yes	ITA	1	0	0	0	0
+ITA-041	192fece20058	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	20/05/2021	yes	ITA	1	0	1	0	0
+ITA-041	192fece20068	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	20/05/2021	yes	ITA	1	0	1	0	0
+ITA-042	192fece20063	M	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	27/09/2021	yes	ITA	1	0	0	0	0
+ITA-042	192fece20074	M	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	27/09/2021	yes	ITA	1	0	0	0	0
+ITA-044	192fece20066	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	07/02/2021	yes	ITA	1	0	1	0	0
+ITA-044	192fece20075	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	07/02/2021	yes	ITA	1	0	1	0	0
+ITA-045	192fece20064	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	22/06/2021	yes	ITA	1	0	1	0	0
+ITA-045	192fece20077	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	22/06/2021	yes	ITA	1	0	1	0	0
+ITA-048	192fece20069	F	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	22/01/2021	yes	ITA	1	1	0	0	1
+ITA-048	192fece20081	F	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	22/01/2021	yes	ITA	1	1	0	0	1
+ITA-049	192fece20073	M	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	21/03/2021	yes	ITA	1	0	0	0	1
+ITA-050	192fece20067	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	11/02/2021	yes	ITA	1	0	0	0	0
+ITA-050	192fece20076	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	11/02/2021	yes	ITA	1	0	0	0	0
+ITA-051	192fece20070	F	Headneck	IV	Advanced 1st	PD-1/PD-L1	T0	12/01/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-051	192fece20079	F	Headneck	IV	Advanced 1st	PD-1/PD-L1	T1	12/01/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-052	192fece20082	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	09/11/2022	yes	ITA	1	1	0	0	0
+ITA-052	192fece20083	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	NA	09/11/2022	yes	ITA	1	1	0	0	0
+ITA-053	192fece20071	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T0	01/02/2021	yes	ITA	1	1	0	0	0
+ITA-054	192fece20072	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	24/03/2021	yes	ITA	1	1	0	0	1
+ITA-055	192fece20078	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	ITA	0	0	1	0	0
+ITA-055	192fece20090	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	ITA	0	0	1	0	0
+ITA-056	192fece20084	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	ITA	1	0	0	0	0
+ITA-058	192fece20080	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	ITA	1	1	0	0	0
+ITA-058	192fece20087	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	ITA	1	1	0	0	0
+ITA-060	192fece20091	M	CR MSI high	IV	Advanced 1st	PD-1/PD-L1	T1	23/11/2022	yes	ITA	NA	NA	NA	NA	NA
+ITA-060	192fece20092	M	CR MSI high	IV	Advanced 1st	PD-1/PD-L1	T1	23/11/2022	yes	ITA	NA	NA	NA	NA	NA
+ITA-063	192fece20094	F	CR MSI high	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1	23/12/2021	yes	ITA	1	0	1	0	0
+ITA-063	192fece20085	F	CR MSI high	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0	23/12/2021	yes	ITA	1	0	1	0	0
+ITA-064	192fece20097	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	23/03/2021	yes	ITA	1	1	0	0	0
+ITA-065	192fece20100	F	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	21/04/2021	yes	ITA	1	0	0	0	0
+ITA-065	192fece20098	F	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	21/04/2021	yes	ITA	1	0	0	0	0
+ITA-065	192fece20088	F	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	21/04/2021	yes	ITA	1	0	0	0	0
+ITA-068	192fece20089	M	CR MSI high	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0	29/03/2021	yes	ITA	1	0	0	0	0
+ITA-070	192fece20096	M	Headneck	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	ITA	1	1	0	0	0
+ITA-071	192fece20093	F	Lung	IV	Advanced 1st	PD-1/PD-L1	NA	09/09/2021	yes	ITA	0	0	0	0	1
+ITA-073	192fece20103	M	Headneck	IV	Advanced 1st	PD-1/PD-L1	T1	13/01/2022	yes	ITA	0	0	1	0	0
+ITA-075	192fece20101	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	20/07/2021	yes	ITA	1	1	0	0	1
+ITA-075	192fece20116	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	20/07/2021	yes	ITA	1	1	0	0	1
+ITA-075	192fece20106	M	Lung	IV	Advanced 1st	PD-1/PD-L1	NA	20/07/2021	yes	ITA	1	1	0	0	1
+ITA-076	192fece20122	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	07/06/2021	yes	ITA	1	1	1	0	1
+ITA-078	192fece20099	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	28/03/2021	yes	ITA	1	1	1	0	0
+ITA-081	192fece20200	F	Headneck	IV	Advanced 1st	PD-1/PD-L1	T1	29/03/2021	yes	ITA	0	1	0	0	0
+ITA-085	192fece20109	F	Headneck	IV	Advanced 1st	PD-1/PD-L1	T1	19/07/2021	yes	ITA	1	1	1	0	1
+ITA-086	192fece20107	F	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	16/07/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-086	192fece20112	F	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	16/07/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-087	192fece20108	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	22/09/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-087	192fece20113	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	22/09/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-087	192fece20118	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	22/09/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-089	192fece20199	F	CR MSI high	Others	Advanced 1st	PD-1/PD-L1	T0	07/06/2021	yes	ITA	1	1	0	0	0
+ITA-089	192fece20114	F	CR MSI high	Others	Advanced 1st	PD-1/PD-L1	T1	07/06/2021	yes	ITA	1	1	0	0	0
+ITA-090	192fece20110	F	CR MSI high	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	ITA	1	1	0	0	0
+ITA-092	192fece20111	F	CR MSI high	Others	Advanced 1st	PD-1/PD-L1	T0		no	ITA	1	0	0	0	0
+ITA-092	192fece20117	F	CR MSI high	Others	Advanced 1st	PD-1/PD-L1	T1		no	ITA	1	0	0	0	0
+ITA-092	192fece20102	F	CR MSI high	Others	Advanced 1st	PD-1/PD-L1	T1		no	ITA	1	0	0	0	0
+ITA-093	192fece20115	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	16/08/2022	yes	ITA	1	0	0	0	0
+ITA-096	192fece20119	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T1	08/09/2021	yes	ITA	NA	NA	NA	NA	NA
+ITA-103	192fece20120	M	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	ITA	1	0	0	0	0
+ITA-104	192fece20121	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	03/11/2021	yes	ITA	1	1	1	0	1
+IRE-001	192fece40101	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	01/06/2022	yes	IRE	0	1	0	0	0
+IRE-001	192fece40102	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	01/06/2022	yes	IRE	0	1	0	0	0
+IRE-001	192fece40128	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T2	01/06/2022	yes	IRE	0	1	0	0	0
+IRE-003	192fece40103	F	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	11/01/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-003	192fece40104	F	Headneck	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	11/01/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-004	192fece40105	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-005	192fece40106	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	24/08/2021	yes	IRE	1	0	0	0	0
+IRE-005	192fece40107	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T2	24/08/2021	yes	IRE	1	0	0	0	0
+IRE-006	192fece40108	M	Melanoma	Others	Advanced 1st	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-006	192fece40109	M	Melanoma	Others	Advanced 1st	PD-1/PD-L1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-008	192fece40110	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-008	192fece40112	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-009	192fece40111	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-009	192fece40113	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T2		no	IRE	NA	NA	NA	NA	NA
+IRE-011	192fece40114	M	Urogenital (inc.renal)	IV	Advanced 1st	CTLA-4,PD-1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-011	192fece40117	M	Urogenital (inc.renal)	IV	Advanced 1st	CTLA-4,PD-1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-012	192fece40115	M	Headneck	IV	Advanced 1st	PD-1/PD-L1	T0	24/02/2022	yes	IRE	0	0	1	1	0
+IRE-013	192fece40116	F	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	11/04/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-013	192fece40124	F	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1	11/04/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-014	192fece40118	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	05/05/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-014	192fece40122	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	05/05/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-014	192fece40126	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T2	05/05/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-015	192fece40119	F	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-015	192fece40123	F	Urogenital (inc.renal)	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-016	192fece40121	F	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	IRE	1	1	0	0	1
+IRE-017	192fece40120	M	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-017	192fece40125	M	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-020	192fece40127	M	Urogenital (inc.renal)	IV	Advanced 1st	CTLA-4,PD-1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-020	192fece40129	M	Urogenital (inc.renal)	IV	Advanced 1st	CTLA-4,PD-1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-021	192fece40130	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	IRE	1	0	1	1	0
+IRE-021	192fece40132	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	IRE	1	0	1	1	0
+IRE-022	192fece40131	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0	11/07/2022	yes	IRE	1	0	0	0	0
+IRE-022	192fece40135	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1	11/07/2022	yes	IRE	1	0	0	0	0
+IRE-023	192fece40133	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0	04/10/2023	yes	IRE	0	0	1	0	0
+IRE-023	192fece40134	M	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1	04/10/2023	yes	IRE	0	0	1	0	0
+IRE-024	192fece40136	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	IRE	1	1	0	0	0
+IRE-024	192fece40138	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	IRE	1	1	0	0	0
+IRE-025	192fece40137	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0	04/01/2023	yes	IRE	0	0	1	0	0
+IRE-025	192fece40139	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1	04/01/2023	yes	IRE	0	0	1	0	0
+IRE-025	192fece40161	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T2	04/01/2023	yes	IRE	0	0	1	0	0
+IRE-026	192fece40140	M	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T0	13/10/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-026	192fece40164	M	Melanoma	Others	Neoadj/adj	CTLA-4,PD-1	T1	13/10/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-027	192fece40141	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T0	12/12/2022	yes	IRE	1	1	1	0	0
+IRE-027	192fece40146	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T1	12/12/2022	yes	IRE	1	1	1	0	0
+IRE-027	192fece40154	M	Melanoma	IV	Advanced 1st	PD-1/PD-L1	T2	12/12/2022	yes	IRE	1	1	1	0	0
+IRE-028	192fece40142	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-028	192fece40150	F	Melanoma	Others	Neoadj/adj	PD-1/PD-L1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-029	192fece40143	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-029	192fece40147	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-031	192fece40145	M	Urogenital (inc.renal)	IV	Advanced 1st	PD-1/PD-L1	T0	23/11/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-031	192fece40152	M	Urogenital (inc.renal)	IV	Advanced 1st	PD-1/PD-L1	T1	23/11/2022	yes	IRE	NA	NA	NA	NA	NA
+IRE-033	192fece40148	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-033	192fece40153	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-034	192fece40149	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	IRE	1	0	0	0	0
+IRE-034	192fece40157	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	IRE	1	0	0	0	0
+IRE-035	192fece40151	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-035	192fece40155	F	Melanoma	IV	Advanced 1st	CTLA-4,PD-1	T1		no	IRE	NA	NA	NA	NA	NA
+IRE-037	192fece40159	F	Urogenital (inc.renal)	IV	Advanced 1st	PD-1/PD-L1	T0		no	IRE	1	0	1	0	0
+IRE-037	192fece40162	F	Urogenital (inc.renal)	IV	Advanced 1st	PD-1/PD-L1	T1		no	IRE	1	0	1	0	0
+IRE-038	192fece40158	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T0		no	IRE	NA	NA	NA	NA	NA
+IRE-039	192fece40160	M	Urogenital (inc.renal)	IV	Advanced 1st	PD-1/PD-L1	T0		no	IRE	1	0	0	0	0
+IRE-039	192fece40163	M	Urogenital (inc.renal)	IV	Advanced 1st	PD-1/PD-L1	T1		no	IRE	1	0	0	0	0
+NOR-001	192fece30003	M	Lung	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T0	05/04/2022	yes	NOR	1	0	0	0	1
+NOR-001	192fece30002	M	Lung	IV	Advanced>=2nd,maint	CTLA-4,PD-1	T1	05/04/2022	yes	NOR	1	0	0	0	1
+NOR-002	192fece30001	M	Lung	Others	Advanced>=2nd,maint	CTLA-4,PD-1	T0	02/01/2023	yes	NOR	1	0	0	0	0
+NOR-002	192fece30005	M	Lung	Others	Advanced>=2nd,maint	CTLA-4,PD-1	T1	02/01/2023	yes	NOR	1	0	0	0	0
+NOR-003	192fece30004	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	NOR	1	1	0	0	0
+NOR-003	192fece30021	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	NOR	1	1	0	0	0
+NOR-004	192fece30006	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	11/01/2022	yes	NOR	1	1	0	0	1
+NOR-005	192fece30008	M	Lung	Others	Advanced>=2nd,maint	CTLA-4,PD-1	T0	17/03/2022	yes	NOR	1	0	0	0	0
+NOR-005	192fece30015	M	Lung	Others	Advanced>=2nd,maint	CTLA-4,PD-1	T1	17/03/2022	yes	NOR	1	0	0	0	0
+NOR-006	192fece30007	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T0	09/12/2021	yes	NOR	1	1	0	0	0
+NOR-006	192fece30010	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T1	09/12/2021	yes	NOR	1	1	0	0	0
+NOR-007	192fece30011	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	14/06/2022	yes	NOR	1	1	0	0	0
+NOR-007	192fece30012	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	14/06/2022	yes	NOR	1	1	0	0	0
+NOR-008	192fece30016	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	20/07/2022	yes	NOR	1	0	0	0	0
+NOR-008	192fece30017	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	20/07/2022	yes	NOR	1	0	0	0	0
+NOR-009	192fece30018	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	NOR	1	1	0	0	0
+NOR-009	192fece30019	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	NOR	1	1	0	0	0
+NOR-010	192fece30020	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	NOR	1	1	0	0	0
+NOR-010	192fece30022	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T1		no	NOR	1	1	0	0	0
+NOR-011	192fece30024	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	NOR	NA	NA	NA	NA	NA
+NOR-013	192fece30029	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T2	13/05/2022	yes	NOR	0	0	1	0	0
+NOR-013	192fece30027	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T0	13/05/2022	yes	NOR	0	0	1	0	0
+NOR-014	192fece30030	M	Lung	Others	Advanced 1st	PD-1/PD-L1	T1	13/09/2022	yes	NOR	1	1	0	0	0
+NOR-016	192fece30033	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T2	27/05/2022	yes	NOR	1	1	0	0	0
+NOR-016	192fece30032	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	27/05/2022	yes	NOR	1	1	0	0	0
+NOR-016	192fece30041	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	27/05/2022	yes	NOR	1	1	0	0	0
+NOR-017	192fece30034	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	20/10/2022	yes	NOR	NA	NA	NA	NA	NA
+NOR-017	192fece30035	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T1	20/10/2022	yes	NOR	NA	NA	NA	NA	NA
+NOR-018	192fece30036	M	Lung	IV	Advanced>=2nd,maint	PD-1/PD-L1	T0	07/09/2022	yes	NOR	1	1	0	0	0
+NOR-020	192fece30043	M	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	NOR	1	0	0	0	0
+NOR-021	192fece30047	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0		no	NOR	NA	NA	NA	NA	NA
+NOR-023	192fece30048	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T0	04/01/2023	yes	NOR	NA	NA	NA	NA	NA
+NOR-023	192fece30049	F	Lung	IV	Advanced 1st	PD-1/PD-L1	T2	04/01/2023	yes	NOR	NA	NA	NA	NA	NA
+NOR-024	192fece30050	M	Lung	IV	Neoadj/adj	PD-1/PD-L1	T0		no	NOR	NA	NA	NA	NA	NA
+NOR-024	192fece30052	M	Lung	IV	Neoadj/adj	PD-1/PD-L1	T1		no	NOR	NA	NA	NA	NA	NA
+NOR-025	192fece30042	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T0		no	NOR	NA	NA	NA	NA	NA
+NOR-025	192fece30051	M	Lung	Others	Advanced>=2nd,maint	PD-1/PD-L1	T1		no	NOR	NA	NA	NA	NA	NA

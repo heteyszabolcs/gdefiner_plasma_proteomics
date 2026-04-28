@@ -1,0 +1,2 @@
+Name	Term	ES	NES	NOM p-val	FDR q-val	FWER p-val	Tag %	Gene %	Lead_genes	comparison	confounders
+prerank	Supramolecular Fiber Organization (GO:0097435)	0.9989451476793247	1.116663860753426	0.26373626373626374	0.046090756820238346	0.129	2/103	0.20%	KRT33B;KRT86	TP: T1 vs T0	country, cancer_type, Sex

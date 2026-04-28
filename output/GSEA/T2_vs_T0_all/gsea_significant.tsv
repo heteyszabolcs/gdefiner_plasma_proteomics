@@ -1,0 +1,2 @@
+Name	Term	ES	NES	NOM p-val	FDR q-val	FWER p-val	Tag %	Gene %	Lead_genes	comparison	confounders
+prerank	Regulation Of Cell Population Proliferation (GO:0042127)	0.9968354430379747	1.316698367341031	0.010752688172043012	0.04571532744957159	0.046	2/103	0.40%	FABP6;GKN1	TP: T2 vs T0	country, cancer_type, Sex, toxicity

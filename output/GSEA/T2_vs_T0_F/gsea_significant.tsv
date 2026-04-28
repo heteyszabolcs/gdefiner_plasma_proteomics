@@ -1,0 +1,2 @@
+Name	Term	ES	NES	NOM p-val	FDR q-val	FWER p-val	Tag %	Gene %	Lead_genes	comparison	confounders
+prerank	Positive Regulation Of Interleukin-10 Production (GO:0032733)	-1.0	-2.4834680260690924	0.001092896174863388	0.03919706759898227	0.033	1/5	0.10%	PIBF1	TP: T2 vs T0	country, cancer_type, toxicity
